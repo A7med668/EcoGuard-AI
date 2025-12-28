@@ -156,10 +156,10 @@ Get immediate insights through:
 Switch to the **Analytics Dashboard** to:
 * Visualize the **Class Probability Distribution**.
 * Explore advanced metrics to gauge environmental risk and urgency.
+
 <p align="center">
   <img src="assets/Screenshot_10.png"width="80%">
 </p>
-
 
 ### 4. View Treatment Plan 💊
 Receive actionable advice in the **Treatment Plan** tab:
