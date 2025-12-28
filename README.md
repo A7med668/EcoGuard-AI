@@ -2,7 +2,7 @@
 <h1 align="center">🌿 Plant Disease AI – Eco‑Guard</h1>
 
 <p align="center">
-  <img src="assets/header.png"width="80%">
+  <img src="assets/Header.png"width="80%">
 </p>
 
 <p align="center">
