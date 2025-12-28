@@ -2,7 +2,7 @@
 <h1 align="center">🌿 Plant Disease AI – Eco‑Guard</h1>
 
 <p align="center">
-  <img src="header.png"width="80%">
+  <img src="assets/header.png"width="80%">
 </p>
 
 <p align="center">
@@ -123,6 +123,12 @@ Follow these steps to get the most out of **Eco-Guard**:
 * Upload a leaf image (`.jpg`, `.jpeg`, `.png`).
 * The system automatically preprocesses the image and triggers the **CNN model** for real-time inference.
 
+<p align="center">
+  <img src="assets/Screenshot_1.png"width="80%">
+</p>
+
+---
+
 ### 2. Review Diagnosis 🔍
 Get immediate insights through:
 * **Predicted Class:** (Healthy, Powdery Mildew, or Rust).
@@ -130,27 +136,67 @@ Get immediate insights through:
 * **Severity Level:** Estimated impact on the plant.
 * **Heatmap Overlay:** Visual color-coded areas showing the infection zones.
 
+<p align="center">
+  <img src="assets/Screenshot_2.png"width="80%">
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot_5.png"width="80%">
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot_3.png"width="80%">
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot_4.png"width="80%">
+</p>
+
 ### 3. Inspect Analytics 📊
 Switch to the **Analytics Dashboard** to:
 * Visualize the **Class Probability Distribution**.
 * Explore advanced metrics to gauge environmental risk and urgency.
+<p align="center">
+  <img src="assets/Screenshot_10.png"width="80%">
+</p>
+
 
 ### 4. View Treatment Plan 💊
 Receive actionable advice in the **Treatment Plan** tab:
 * 🌿 **Cultural Practices:** Preventive manual care.
 * 🦠 **Biological Control:** Eco-friendly & organic solutions.
 * 🧪 **Chemical Suggestions:** Specific treatments (when necessary).
+<p align="center">
+  <img src="assets/Screenshot_6.png"width="80%">
+</p>
+ 
+<p align="center">
+  <img src="assets/Screenshot_7.png"width="80%">
+</p>
+
+
+
 
 ### 5. Track History & Trends ⏳
 Stay organized with the **History & Trends** section:
 * Review all scans from your current session.
 * Monitor distribution charts and simple trend analysis.
 
+<p align="center">
+  <img src="assets/Screenshot_8.png"width="80%">
+</p>
+
+
 ### 6. Export & Share 📤
 * **Reports:** Download a detailed text report of your scan.
 * **Data:** Export session history as a `.csv` file.
 * **Visuals:** Save generated heatmap images.
 * **Social:** Generate instant sharing links for **WhatsApp** or **Email**.
+
+<p align="center">
+  <img src="assets/Screenshot_9.png"width="80%">
+</p>
+
 
 ---
 
